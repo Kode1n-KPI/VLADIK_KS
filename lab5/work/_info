@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\downloads\KPI\quartus
+vdecoder4_16
+Z1 !s100 TREOaOSHgBE7;Y@Oahjgj2
+Z2 IO6Nme9iB]VQNhfOmEzH<G0
+Z3 V>W3TW40_X8?mB5`[Qkm8@2
+Z4 dF:\Programs\modelsim\modelsim_ase\examples\lab5
+Z5 w1775045900
+Z6 8F:/Programs/modelsim/modelsim_ase/examples/lab5/Lab5_Shepitko.v
+Z7 FF:/Programs/modelsim/modelsim_ase/examples/lab5/Lab5_Shepitko.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|F:/Programs/modelsim/modelsim_ase/examples/lab5/Lab5_Shepitko.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1775046056.484000
+Z12 !s107 F:/Programs/modelsim/modelsim_ase/examples/lab5/Lab5_Shepitko.v|
+!s101 -O0
+vdecoder4_16_tb
+!i10b 1
+Z13 !s100 DjbP`YVM:=CJibWENN<eb1
+Z14 IF7bhEQ8WzY<X0j9HWWWih3
+Z15 Vk[5iFl<H>OUHLX18X[Z4<3
+R4
+w1775046057
+Z16 8F:/Programs/modelsim/modelsim_ase/examples/lab5/Lab5_Shepitko_testbench.v
+Z17 FF:/Programs/modelsim/modelsim_ase/examples/lab5/Lab5_Shepitko_testbench.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1775046057.578000
+!s107 F:/Programs/modelsim/modelsim_ase/examples/lab5/Lab5_Shepitko_testbench.v|
+Z18 !s90 -reportprogress|300|-work|work|F:/Programs/modelsim/modelsim_ase/examples/lab5/Lab5_Shepitko_testbench.v|
+!s101 -O0
+R10
