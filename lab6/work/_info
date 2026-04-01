@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Programs\modelsim\modelsim_ase\examples\lab5
+vbitsum
+Z1 I@h;:5T3^=<nM6XYHaV]cz0
+Z2 Vi9NGmz9LhHK1Bn8hXVK7o2
+Z3 dF:\Programs\modelsim\modelsim_ase\examples\lab6
+Z4 w1775049664
+Z5 8F:/Programs/modelsim/modelsim_ase/examples/lab6/lab6_Shepitko_sum.v
+Z6 FF:/Programs/modelsim/modelsim_ase/examples/lab6/lab6_Shepitko_sum.v
+L0 21
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s108 1775049664.376000
+Z9 !s107 F:/Programs/modelsim/modelsim_ase/examples/lab6/lab6_Shepitko_sum.v|
+Z10 !s90 -reportprogress|300|-work|work|F:/Programs/modelsim/modelsim_ase/examples/lab6/lab6_Shepitko_sum.v|
+Z11 o-work work -O0
+Z12 !s100 4@OZX;agI=;hQC00nZ6_d0
+!i10b 1
+!s85 0
+!s101 -O0
+vmy_sum
+Z13 Io7Z]89GLBTfhJY@OmVGX^2
+Z14 VlTD[V;9DT[F;T`6^BhF^N0
+R3
+R4
+R5
+R6
+L0 2
+R7
+r1
+31
+R8
+R9
+R10
+R11
+Z15 !s100 EleBXFOPZR81PiPa>L_6Z0
+!i10b 1
+!s85 0
+!s101 -O0
+vref_sum
+Z16 IbU3kAeN^gMd[W5E;[=VFH1
+Z17 VL;9L7V7S95PDb3U;<E1Dj3
+R3
+Z18 w1775049665
+Z19 8F:/Programs/modelsim/modelsim_ase/examples/lab6/lab6_Shepitko_ref.v
+Z20 FF:/Programs/modelsim/modelsim_ase/examples/lab6/lab6_Shepitko_ref.v
+L0 2
+R7
+r1
+31
+Z21 !s90 -reportprogress|300|-work|work|F:/Programs/modelsim/modelsim_ase/examples/lab6/lab6_Shepitko_ref.v|
+R11
+!i10b 1
+Z22 !s100 l2U[1Mi4kLIGI@38JQ8XG1
+!s85 0
+Z23 !s108 1775049665.239000
+Z24 !s107 F:/Programs/modelsim/modelsim_ase/examples/lab6/lab6_Shepitko_ref.v|
+!s101 -O0
+vtest_sum
+!i10b 1
+!s100 JZ>PilTzn5fe_QQYAj<L51
+I2F;MLm[inm=XIa@USJzOS3
+Z25 V?[S@XOc7;P58OizZje^Po0
+R3
+R18
+Z26 8F:/Programs/modelsim/modelsim_ase/examples/lab6/lab6_Shepitko_testbench.v
+Z27 FF:/Programs/modelsim/modelsim_ase/examples/lab6/lab6_Shepitko_testbench.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1775049666.092000
+!s107 F:/Programs/modelsim/modelsim_ase/examples/lab6/lab6_Shepitko_testbench.v|
+Z28 !s90 -reportprogress|300|-work|work|F:/Programs/modelsim/modelsim_ase/examples/lab6/lab6_Shepitko_testbench.v|
+!s101 -O0
+R11
